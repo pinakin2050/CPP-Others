@@ -15,14 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\CPP Program\Exceeding range of built in data types\Boolean.cpp">
+    <ClCompile Include="CreateFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\CPP Program\Exceeding range of built in data types\character.cpp">
+    <ClCompile Include="ReadFromFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SizeOfInt.cpp">
+    <ClCompile Include="RemoveFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RenameFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteInFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteInFileInAppendMode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="FileToRead.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="FileToWrite.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -30,6 +30,7 @@
     <ClCompile Include="..\..\..\CPP Program\Pointers &amp; Refrences\SmartPointerToInt.cpp" />
     <ClCompile Include="..\..\..\CPP Program\Pointers &amp; Refrences\UseOfThisPtrDemo1.cpp" />
     <ClCompile Include="..\..\..\CPP Program\Pointers &amp; Refrences\VoidPointer.cpp" />
+    <ClCompile Include="Pointer&amp;ReferenceLCO.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

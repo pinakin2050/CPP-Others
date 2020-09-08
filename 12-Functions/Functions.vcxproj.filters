@@ -66,5 +66,14 @@
     <ClCompile Include="..\..\CPP Program\Functions\TupleAndPair.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Factorial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VariadicFnsAndRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NullPtrDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

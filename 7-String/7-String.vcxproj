@@ -35,6 +35,7 @@
     <ClCompile Include="..\..\..\CPP Program\Strings\StringStreamDemo.cpp" />
     <ClCompile Include="..\..\..\CPP Program\Strings\StringToLongIntMethod.cpp" />
     <ClCompile Include="..\..\..\CPP Program\Strings\SubstrMethod.cpp" />
+    <ClCompile Include="CtypeStringsWithLoops.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

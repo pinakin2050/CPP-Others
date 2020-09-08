@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\CPP Program\Exceeding range of built in data types\Boolean.cpp" />
     <ClCompile Include="..\..\CPP Program\Exceeding range of built in data types\character.cpp" />
+    <ClCompile Include="SizeOfInt.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

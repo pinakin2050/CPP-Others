@@ -21,5 +21,8 @@
     <ClCompile Include="..\..\CPP Program\Switch\SwitchWithContinue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RatingProgSwitch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

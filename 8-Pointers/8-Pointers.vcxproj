@@ -23,6 +23,10 @@
     <ClCompile Include="..\..\..\CPP Program\Pointers\PointerIncrementation.cpp" />
     <ClCompile Include="..\..\..\CPP Program\Pointers\PointertoaMultidimentionalArray.cpp" />
     <ClCompile Include="..\..\..\CPP Program\Pointers\VoidPointer.cpp" />
+    <ClCompile Include="Array&amp;PointerLCO.cpp" />
+    <ClCompile Include="FunctionalPointer.cpp" />
+    <ClCompile Include="SharedPointer.cpp" />
+    <ClCompile Include="UniquePointer.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -36,6 +36,9 @@
     <ClCompile Include="..\..\CPP Program\Functions\QuickExitFns.cpp" />
     <ClCompile Include="..\..\CPP Program\Functions\SwapFns.cpp" />
     <ClCompile Include="..\..\CPP Program\Functions\TupleAndPair.cpp" />
+    <ClCompile Include="Factorial.cpp" />
+    <ClCompile Include="NullPtrDemo.cpp" />
+    <ClCompile Include="VariadicFnsAndRecursion.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

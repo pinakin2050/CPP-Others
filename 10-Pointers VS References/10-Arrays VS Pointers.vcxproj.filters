@@ -48,5 +48,8 @@
     <ClCompile Include="..\..\..\CPP Program\Pointers &amp; Refrences\VoidPointer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pointer&amp;ReferenceLCO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

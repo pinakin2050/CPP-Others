@@ -139,11 +139,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AndOrOperators.cpp" />
+    <ClCompile Include="AutoDemo.cpp" />
     <ClCompile Include="callingFunctionWithoutDeclaration.c" />
     <ClCompile Include="callingFunctionWithoutDeclaration2.c" />
     <ClCompile Include="callingFunctionWithoutDeclaration3.c" />
+    <ClCompile Include="EnumDemo.cpp" />
+    <ClCompile Include="HeaderFileDemo.cpp" />
+    <ClCompile Include="LambdaDemo.cpp" />
+    <ClCompile Include="MacroDemo.cpp" />
+    <ClCompile Include="MemoryLeak.cpp" />
+    <ClCompile Include="MoveSemantics.cpp" />
+    <ClCompile Include="StackAndHeap.cpp" />
+    <ClCompile Include="StaticVariable.cpp" />
     <ClCompile Include="StringStreamFns.cpp" />
     <ClCompile Include="StrTokFunction.cpp" />
+    <ClCompile Include="StructureDemo.cpp" />
+    <ClCompile Include="Try&amp;CatchBlock.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
